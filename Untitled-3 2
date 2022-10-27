@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="it" dir="ltr">
+<head>
+    <meta charset="utf-8"
+    <title></title>
+</head>
+
+<body>
+    <h1>Produzione 2009</h1>
+    <hr>
+
+    <div>
+
+    <!--Primo ortaggio-->
+    <h3><strong>Zucchine</strong></h3>
+    <img src="https://www.giardinaggio.it/ortofrutta/orto/piantare-zucchine_NG1.jpg" alt="">
+    <p>Coltivare in terreno molto ricco di materia organica e non coltivare dopo Solanacee o piante della stessa famiglia delle cucurbitacee.</p>
+    <ul>
+        <li>
+            <p><strong>Varietà:</strong>Zucchina chiara di Faenza</p>
+        </li>
+        <li>
+            <p><strong>Periodo di semina:</strong>Marzo/Aprile</p>
+        </li>
+        <li>
+            <p><strong>Primo raccolto:</strong>Fine Aprile</p>
+        </li>
+        <li>
+            <p><strong>Ultimo raccolto:</strong>Fine Luglio</p>
+        </li>
+        <li>
+            <p><strong>Raccolto</strong></p>
+            <!--Tabella raccolto-->
+            <table>
+                <tr>
+                    <th>Dimensione</th>
+                    <th>Quantità</th>
+                </tr>
+                <tr>
+                    <td>Piccole (10cm)</td>
+                    <td>16</td>
+                </tr>
+                <tr>
+                    <td>Medie (11-16cm)</td>
+                    <td>26</td>
+                </tr>
+                <tr>
+                    <td>Grandi (>16cm)</td>
+                    <td>9</td>
+                </tr>
+                <tr>
+                    <td>Totale:</td>
+                    <td>51</td>
+                </tr>
+            </table>
+        </li>
+    </ul>
+
+    </div>
+
+    <!--Inserire comando "Acquista semi"-->
+
+
+<!--Secondo ortaggio-->
+
+<h3><strong>Piselli</strong></h3>
+<img src="https://www.panierebio.com/402-large_default/piselli-freschi-biologici.jpg" alt="">
+<p><strong>American Wonder:</strong>Varietà molto precoce come ciclo naturale</p>
+
+<div>
+<!--Inizio elenco consigli-->
+
+<p><strong>Consigli</strong></p>
+<ol>
+    <li>
+        <p>Piantare in semenzaio riscaldato.</p>
+        <p>E' importante:</p>
+        <ul>
+            <li>
+                <p>Acquistare vasetti biodegradabili (di cocco o cartone);</p>
+            </li>
+            <li>
+                <p>Mantenere areato il semenzaio per evitare muffe;</p>
+            </li>
+            <ul>
+                <li>
+                    <p>Non usare il coperchio del semenzaio;</p<
+                </li>
+                <li>
+                    <p>Non usare mettere il semenzaio vicino al termosifone.</p>
+                </li>
+            </ul>
+        </ul>
+    </li>
+    <li>
+        <p>Fissare i sostegni nel terreno non appena le piantine raggiungono i 10cm;</p>
+    </li>
+    <li>
+        <p>Acquistare una rete con spazi di non più di 10cm per garantire sostegni adeguati.</p>
+    </li>
+</ol>
+
+</div>
+
+<!--Inserire comando "Acquista semi"-->
+
+</body>
+
+</html>
